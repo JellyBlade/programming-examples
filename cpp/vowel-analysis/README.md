@@ -12,6 +12,6 @@ Here's an example of the analysis file for a test file with >10k vowels, where t
 
 ![Analysis File Example](vowel-analysis-example.png)
 
-[Another Example](example-output.txt)
+[Example Output](example-output.txt)
 
 [Usage Example](https://www.youtube.com/watch?v=3BwTPnDnGAw)
