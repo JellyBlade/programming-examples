@@ -3,7 +3,7 @@
 Requires: n/a
 
 How to use:
-  1. [Download the compiled binary](https://github.com/JellyBlade/programming-examples/releases/connect-four), or download the files in this subdirectory and compile yourself with your favourite C# compiler.
+  1. [Download the compiled binary](https://github.com/JellyBlade/programming-examples/releases/hockey-players), or download the files in this subdirectory and compile yourself with your favourite C# compiler.
   TBD
   
 [Usage Example](https://www.youtube.com/watch?v=qI2AqkVyKOg)
