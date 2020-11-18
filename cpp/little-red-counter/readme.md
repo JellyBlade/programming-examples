@@ -1,4 +1,4 @@
-##Little Red Counter - Tyler Hippard
+## Little Red Counter - Tyler Hippard
 
 Requires: Counter.h and Counter.cpp
 
