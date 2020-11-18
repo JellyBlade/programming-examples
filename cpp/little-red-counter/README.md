@@ -10,4 +10,4 @@ Steps to use the Little Red Counter:
      Entering 'r' will reset the counter, and 'o' will add the max size of the counter, causing an overflow.
   4. If the counter goes over the inputted size, an overflow warning will appear, prompting you to reset the counter.
   
-Usage Example: https://www.youtube.com/watch?v=CmIm2t7WbNc
+[Usage Example](https://www.youtube.com/watch?v=CmIm2t7WbNc)
