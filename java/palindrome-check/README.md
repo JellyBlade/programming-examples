@@ -8,4 +8,4 @@ Steps to use the Palindrome Check
   2. Enter some text in the left pane
   3. Click "Analyze Text"
   
-Usage Example: Coming soon.
+![Palindrome Check usage example gif](palindrome-example.gif)
