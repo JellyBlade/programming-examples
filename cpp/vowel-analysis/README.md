@@ -2,7 +2,7 @@
 
 Requires: n/a
 
-Steps to use the Number Magnifier
+Steps to use Vowel Analysis
   1. Download the files in this subfolder, and compile with your favourite c++ compiler.
   2. Enter the location of a text file to read.
   3. The program will output an ASCII graph to '(filename)-analysis.txt'
