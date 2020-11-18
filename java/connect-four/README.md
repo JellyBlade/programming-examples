@@ -10,4 +10,4 @@ How to Play:
   4. If a player gets a 4-in-a-row in any way, they win!
   5. Rinse and repeat.
   
-Usage Example: Coming soon.
+![Connect four example gif](connect-four-example.gif)
