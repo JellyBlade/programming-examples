@@ -11,4 +11,4 @@ Here's an example of the analysis file
 
 ![Analysis File Example](vowel-analysis-example.png)
 
-Usage Example: https://www.youtube.com/watch?v=qI2AqkVyKOg
+Usage Example: https://www.youtube.com/watch?v=3BwTPnDnGAw
