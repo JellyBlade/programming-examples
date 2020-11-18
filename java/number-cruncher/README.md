@@ -13,5 +13,4 @@ Additional notes:
   - Output is right-aligned by default, but you can specify left-align by selecting the Left-Align checkbox
   - Will not overwrite files by default. Checking "Overwrite" will display a message once warning you about potential data loss.
   - You can specify the exact output file location by editing the output file input box.
-  
-Usage Example: Coming soon.
+ ![Number cruncher usage example](number-cruncher-example.gif)
