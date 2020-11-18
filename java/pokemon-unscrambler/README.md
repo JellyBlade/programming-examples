@@ -8,4 +8,4 @@ Steps to use the Pokemon Unscrambler
   2. Enter the scrambled name of a pokemon
   3. If the name is recognized/valid/the stars align, the unscrambled name of the pokemon will be shown below, and copied to your clipboard.
   
-Usage Example: Coming soon.
+![Usage of pokemon unscrambler gif](pokemon-unscrambler-example.gif)
