@@ -1,0 +1,10 @@
+Vowel Count Report generated from: "beemovie.txt"
+Vowel  |                  # of Vowels
+ 'A'   | ***********                              (2784)
+ 'E'   | *****************                        (4395)
+ 'I'   | **********                               (2565)
+ 'O'   | *************                            (3353)
+ 'U'   | *****                                    (1341)
+       |-+--------+---------+---------+---------+
+         0     2500      5000      7500     10000
+Each '*' is worth approximately 250 vowels.
