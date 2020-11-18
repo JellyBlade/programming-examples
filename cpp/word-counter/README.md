@@ -15,6 +15,6 @@ Steps to use the Word Counter
   4. Input a text file of words to count.
   
 Known Issues:
-- Forgot to include newline character as a delimiter for Import Find, so using a .csv with line breaks will smoosh the last and first of a line together.
+- Forgot to include newline character as a delimiter for Import Find, so using a .csv with line breaks will smoosh the last word of the longest line with the next line's first word.
   
 [Usage Example](https://www.youtube.com/watch?v=WUrYbB6KVh8)
