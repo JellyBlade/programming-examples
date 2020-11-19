@@ -2,7 +2,7 @@
 
 Requires: n/a
 
-How to Add and Save:
+How to Use:
   1. [Download the compiled binary](https://github.com/JellyBlade/programming-examples/releases/hockey-players), or download the files in this subdirectory and compile yourself with your favourite C# compiler.
   2. Add a player's name, jersey number, and # of goals scored, then click Add Player.
   3. Add a few more
