@@ -1,7 +1,7 @@
 ## Monthly ShareX Screenshot Folder Quick Access Pin - Tyler Hippard
 *AKA: The script with the worst name I've ever heard*
 
-This quick script I made entirely for my own purposes simply pins a folder with the name of the current month (intended for screenshot folders) to your Quick Access, and unpins the previous month's folder. Technically it can be used for any folder, and will create a folder with a YYYY-MM format and pin it, so you could use it for anything, really.
+This quick script I made entirely for my own purposes simply pins a folder with the name of the current month (intended for screenshot folders) to your Quick Access, and unpins the previous month's folder. Because it automatically creates a folder with a YYYY-MM format and pins it, you could use it for anything, really.
 
 Requires: The ability to run powershell scripts using task scheduler
 
