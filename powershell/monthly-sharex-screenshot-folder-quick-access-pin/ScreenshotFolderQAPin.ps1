@@ -9,8 +9,8 @@
 # Designed for use with ShareX's local screenshot folders, but could be used for any monthly-updating folders that use a YYYY-MM date format for naming.
 # Because this script creates the folder if it doesn't exist, you could even use it to make YYYY-MM dated folders for some purpose.
 
-# For people wanting to use this script, edit this line below to be the root directory of your ShareX screenshot folder.
-$basePath = "E:\ShareX Screenshots"
+# For people wanting to use this script, edit this line below to be the directory of your ShareX screenshot folder.
+$basePath = "C:\Path\To\Your\ShareX Screenshots\Folder"
 
 $currentMonth = Get-Date -Format "yyyy-MM"
 $lastMonth = Get-Date (Get-Date).AddMonths(-1) -Format "yyyy-MM"
