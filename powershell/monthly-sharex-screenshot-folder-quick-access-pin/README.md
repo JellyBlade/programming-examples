@@ -9,3 +9,9 @@ Usage:
   1. Download ScreenshotFolderQAPin.ps1
   2. Edit the value of $basePath for your own local ShareX screenshot folder, or whatever you'd like it to be.
   3. Run it yourself, or set it to run monthly using Task Scheduler or another program that lets you execute scripts at specific times.
+
+Example:
+Before and After
+
+![Before running the script](https://cdn.discordapp.com/attachments/671098387768016912/791164487519830016/explorer_2020-12-22_21-44-13.png)
+![After running the script](https://cdn.discordapp.com/attachments/671098387768016912/791164527898001409/unknown.png)
