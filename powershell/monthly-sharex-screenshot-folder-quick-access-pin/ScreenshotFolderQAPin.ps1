@@ -29,5 +29,4 @@ $newFolder.NameSpace("$currentMonthPath").Self.InvokeVerb("pintohome")
 
 # Remove old folder
 
-$remove = New-Object -ComObject shell.application
-($remove.NameSpace("shell:::{679F85CB-0220-4080-B29B-5540CC05AAB6}").Items() | Where-Object { $_.Path -eq "$lastMonthPath" }).InvokeVerb("unpinfromhome")
+$remove = New-Object -ComObject shell.application ($remove.NameSpace("shell:::{679F85CB-0220-4080-B29B-5540CC05AAB6}").Items() | Where-Object { $_.Path -eq "$lastMonthPath" }).InvokeVerb("unpinfromhome")
