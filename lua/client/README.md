@@ -1,4 +1,4 @@
-# Client (for [program_library](./program_library))
+# Client (for [program_library](./../program_library))
 *For ComputerCraft/CC: Tweaked*
 
 A simple client to connect to a program_library server using the proglibv1 rednet protocol
