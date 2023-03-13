@@ -5,7 +5,7 @@ Program Library allows a computer to host a file-sharing server using ComputerCr
 
 Files are saved in a configurable directory. The protocol and hostname are configurable as well.
 
-An example client program can be found [here]("./../client)
+An example client program can be found [here](./../client)
 
 Features:
 - List files for download
